@@ -28,3 +28,7 @@ Usage
 ```bash
 $GOPATH/bin/watch -v -t -p ./ go test -v
 ```
+
+TODO
+====
+Default output to terminal
