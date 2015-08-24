@@ -19,10 +19,12 @@ Quick Start
 ============
 At the terminal:
 Installation
+------------
 ```bash
 go get github.com/eaburns/watch
 ```
 Usage
+-----
 ```bash
 $GOPATH/bin/watch -v -t -p ./ go test -v
 ```
