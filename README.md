@@ -17,13 +17,12 @@ something changed. By default, the output goes to an acme win.
 
 Quick Start
 ============
-At the terminal:
 Installation
 ------------
 ```bash
 go get github.com/eaburns/watch
 ```
-Usage
+Usage example
 -----
 ```bash
 $GOPATH/bin/watch -v -t -p ./ go test -v
